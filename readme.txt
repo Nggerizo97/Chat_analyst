@@ -1,2 +1,0 @@
-1) La carpeta archivos contiene la información relacionada a los calulos y datos que se encuentran en el informe.
-2) La carpeta informe contiene un power point donde está consolidado los puntos que se requerían analizar, ahí podrá encontrar la información.
