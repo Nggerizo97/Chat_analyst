@@ -1,0 +1,4 @@
+Project Overview:
+
+This project is designed to analyze JSON files containing chat conversation data. The conversations are randomly selected and do not contain any sensitive information. The process involves applying filters to extract relevant fields, which are then compiled into an Excel file. This Excel file will be used to generate a comprehensive report in Power BI.
+
