@@ -1,0 +1,90 @@
+{
+  "conversation_patterns": {
+    "total_conversations": 18,
+    "avg_user_messages": 8.38888888888889,
+    "avg_bot_messages": 13.5,
+    "avg_total_messages": 21.88888888888889,
+    "avg_duration_minutes": 1.583125,
+    "avg_interactions": 8.38888888888889,
+    "median_interactions": 8.5,
+    "interaction_distribution": {
+      "count": 18.0,
+      "mean": 8.38888888888889,
+      "std": 4.729617431225451,
+      "min": 2.0,
+      "25%": 4.25,
+      "50%": 8.5,
+      "75%": 12.0,
+      "max": 16.0
+    }
+  },
+  "channel_analysis": {
+    "distribution": {
+      "Web Portal": 100.0
+    },
+    "comparison_with_targets": {
+      "Web Portal": {
+        "actual": 100.0,
+        "target": 37,
+        "deviation": 63.0
+      }
+    },
+    "total_conversations_by_channel": {
+      "Web Portal": 18
+    }
+  },
+  "advisor_analysis": {
+    "total_escalations": 4,
+    "escalation_rate": 22.22222222222222,
+    "target_escalation_rate": 30,
+    "deviation_from_target": -7.777777777777779,
+    "escalation_reasons": {
+      "paso_asesor": 4
+    },
+    "efficiency_score": 92.22222222222223
+  },
+  "cost_analysis": {
+    "actual_costs": {
+      "interactions": 0,
+      "escalations": 0,
+      "advisor_time": 0.0,
+      "total": 0.0,
+      "per_conversation": 0
+    },
+    "target_costs": {
+      "interactions": 0,
+      "escalations": 0.0,
+      "advisor_time": 0.0,
+      "total": 0.0,
+      "per_conversation": 0
+    },
+    "potential_savings": 0.0,
+    "cost_efficiency_score": 100
+  },
+  "quality_metrics": {
+    "satisfaction_count": 1,
+    "avg_satisfaction": 5.0,
+    "satisfaction_distribution": {
+      "5.0": 1
+    },
+    "target_satisfaction": 4.5,
+    "satisfaction_score": 100.0,
+    "meets_target": "True"
+  },
+  "excel_insights": {
+    "total_records": 30,
+    "unique_sessions": 2,
+    "unique_users": 2,
+    "message_stats": {
+      "avg_messages": 19.4,
+      "median_messages": 20.0,
+      "max_messages": 41,
+      "min_messages": 2
+    },
+    "date_range": {
+      "start_date": "2024-07-18",
+      "end_date": "2024-07-18",
+      "date_span_days": 0
+    }
+  }
+}

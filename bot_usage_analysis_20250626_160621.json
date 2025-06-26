@@ -1,0 +1,45 @@
+{
+  "total_conversations": 18,
+  "avg_interactions_per_conversation": 8.38888888888889,
+  "total_interactions": 151,
+  "avg_conversation_duration": 1.583125,
+  "advisor_escalations": 18,
+  "advisor_escalation_rate": 100.0,
+  "channel_distribution": {
+    "Web Portal": 100.0
+  },
+  "costs": {
+    "interaction_costs": "11325",
+    "escalation_costs": "5400",
+    "advisor_time_costs": 51750.0,
+    "total_costs": 68475.0,
+    "cost_per_conversation": 3804.1666666666665,
+    "total_advisor_hours": 2.25
+  },
+  "performance_vs_targets": {
+    "interactions": {
+      "actual": 8.38888888888889,
+      "target": 20,
+      "achievement_rate": 41.94444444444444,
+      "deviation": -11.61111111111111
+    },
+    "advisor_escalation": {
+      "actual": 100.0,
+      "target": 30,
+      "efficiency_score": 30.0,
+      "deviation": 70.0
+    },
+    "channels": {
+      "whatsapp": {
+        "actual": 0,
+        "target": 63,
+        "deviation": -63
+      },
+      "web_portal": {
+        "actual": 100.0,
+        "target": 37,
+        "deviation": 63.0
+      }
+    }
+  }
+}
